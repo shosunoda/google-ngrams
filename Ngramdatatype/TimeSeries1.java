@@ -7,8 +7,7 @@ import java.util.TreeMap;
 /**
  * An object for mapping a year number (e.g. 1996) to numerical data. Provides
  * utility methods useful for data analysis.
- *
- * @author Josh Hug
+
  */
 public class TimeSeries extends TreeMap<Integer, Double> {
 
