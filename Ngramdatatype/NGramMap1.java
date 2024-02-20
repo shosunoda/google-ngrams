@@ -16,7 +16,7 @@ import static ngrams.TimeSeries.MIN_YEAR;
  * file". It is not a map in the strict sense, but it does provide additional
  * functionality.
  *
- * @author Josh Hug
+
  */
 public class NGramMap {
     TreeMap<String, TimeSeries> poo;
